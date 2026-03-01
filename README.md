@@ -1,4 +1,4 @@
-#Technical Architecture – DarshanEase
+# Technical Architecture – DarshanEase
 
 ## 1. Architectural Overview
 
