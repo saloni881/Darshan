@@ -305,7 +305,7 @@ The Administrator has full system-level control and oversees overall platform go
 
  # User Flow – DarshanEase
 
-![User Flow Diagram](docs/user flow-diagram.png)
+! [User Flow Diagram](docs/user flow-diagram.png)
 
 ## Flow Explanation
 
