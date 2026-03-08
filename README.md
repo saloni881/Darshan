@@ -371,3 +371,12 @@ Responsibilities of the View (Routing) layer:
 
 - **Collaboration-Friendly**  
   Multiple developers can work on different layers simultaneously without conflicts.
+
+# Project Folder Structure
+DarshanEase
+│
+├── client
+│   └── (React frontend code)
+├── server
+│   └── (Node.js / Express backend code)
+└── README.md
